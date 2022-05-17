@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PortafolioWebReactJS/static/css/main.341e9bbb.css",
+    "main.js": "/PortafolioWebReactJS/static/js/main.547a43ca.js",
+    "static/media/me-about2.jpg": "/PortafolioWebReactJS/static/media/me-about2.54d3f1b333d3e8c2a889.jpg",
+    "static/media/rockfestival-003.png": "/PortafolioWebReactJS/static/media/rockfestival-003.d9b1ec997f6946335d27.png",
+    "static/media/BlogDeCafe-001.png": "/PortafolioWebReactJS/static/media/BlogDeCafe-001.22f1516bc68ea3f7f857.png",
+    "static/media/frelancer-002.png": "/PortafolioWebReactJS/static/media/frelancer-002.2101a316e6bea6563eb7.png",
+    "static/media/BienesRaices-004.png": "/PortafolioWebReactJS/static/media/BienesRaices-004.cf288a4aee1f185d87fb.png",
+    "static/media/CV-AV-2022.pdf": "/PortafolioWebReactJS/static/media/CV-AV-2022.c87b9e36bc9361a772f2.pdf",
+    "static/media/ME.JPG": "/PortafolioWebReactJS/static/media/ME.a5e58a687cd93a923237.JPG",
+    "static/media/web-development-t.jpg": "/PortafolioWebReactJS/static/media/web-development-t.b25ef89fac4366d3c582.jpg",
+    "index.html": "/PortafolioWebReactJS/index.html",
+    "main.341e9bbb.css.map": "/PortafolioWebReactJS/static/css/main.341e9bbb.css.map",
+    "main.547a43ca.js.map": "/PortafolioWebReactJS/static/js/main.547a43ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.341e9bbb.css",
+    "static/js/main.547a43ca.js"
+  ]
+}
