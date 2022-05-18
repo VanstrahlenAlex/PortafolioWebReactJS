@@ -22,7 +22,7 @@ const About = () => {
             <article className='about__card'>
             <BiNetworkChart className='about__icon'/>
               <h5>Experiencia</h5>
-              <small>2 años de trabajo</small>
+              <small>2 años de trabajo como Freelancer</small>
             </article>
 
             <article className='about__card'>

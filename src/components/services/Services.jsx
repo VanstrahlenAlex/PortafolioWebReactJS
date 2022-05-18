@@ -42,6 +42,11 @@ const Services = () => {
           <ul className='service__list'>
             <li>
             <BiCheck  className='service__list-icon'/>
+            <p>Desarrollo de paginas web estaticas con HTML, CSS  y Javascript puro</p>
+            </li>
+
+            <li>
+            <BiCheck  className='service__list-icon'/>
             <p>Desarrollo Frontend</p>
             </li>
 
@@ -60,10 +65,7 @@ const Services = () => {
             <p>Desarrollo web mayormente enfocado a ReactJS</p>
             </li>
 
-            <li>
-            <BiCheck  className='service__list-icon'/>
-            <p>Desarrollo web mayormente enfocado a ReactJS</p>
-            </li>
+
           </ul>
         </article>
           {/* END OF WEB development */}
@@ -81,17 +83,17 @@ const Services = () => {
 
             <li>
             <BiCheck  className='service__list-icon'/>
-            <p>Diseño de sitios web</p>
+            <p>Node.js</p>
             </li>
 
             <li>
             <BiCheck  className='service__list-icon'/>
-            <p>Desarrollo web mayormente enfocado a ReactJS</p>
+            <p>Desarrollo backend en Laragon</p>
             </li>
 
             <li>
             <BiCheck  className='service__list-icon'/>
-            <p>Desarrollo web mayormente enfocado a ReactJS</p>
+            <p>Desarrollo backend en TablePlus</p>
             </li>
           </ul>
         </article>
