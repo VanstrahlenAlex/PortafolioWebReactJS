@@ -5,6 +5,8 @@ import IMG2 from '../../assets/BlogDeCafe-001.png';
 import IMG3 from '../../assets/frelancer-002.png';
 import IMG4 from '../../assets/rockfestival-003.png';
 import IMG5 from '../../assets/web-development-t.jpg';
+import IMG6 from '../../assets/Screenshot_6.png';
+
 
 const data = [
   {
@@ -41,6 +43,13 @@ const data = [
   title: 'Portafolio Web Anterior',
   github: 'https://github.com/VanstrahlenAlex/Portafolio',
   demo: 'https://vanstrahlenalex.github.io/Portafolio/index.html'
+  },
+   {
+  id: 6,
+  image: IMG6,
+  title: 'Dashboard',
+  github: 'https://github.com/VanstrahlenAlex/',
+  demo: 'https://dashboard1-av.netlify.app/'
   }
 ]
 
