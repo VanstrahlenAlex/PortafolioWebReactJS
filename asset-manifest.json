@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortafolioWebReactJS/static/css/main.243210be.css",
-    "main.js": "/PortafolioWebReactJS/static/js/main.2004c359.js",
+    "main.js": "/PortafolioWebReactJS/static/js/main.a98cc2e5.js",
     "static/media/me-about2.jpg": "/PortafolioWebReactJS/static/media/me-about2.54d3f1b333d3e8c2a889.jpg",
     "static/media/rockfestival-003.png": "/PortafolioWebReactJS/static/media/rockfestival-003.d9b1ec997f6946335d27.png",
     "static/media/BlogDeCafe-001.png": "/PortafolioWebReactJS/static/media/BlogDeCafe-001.22f1516bc68ea3f7f857.png",
@@ -13,10 +13,10 @@
     "static/media/web-development-t.jpg": "/PortafolioWebReactJS/static/media/web-development-t.b25ef89fac4366d3c582.jpg",
     "index.html": "/PortafolioWebReactJS/index.html",
     "main.243210be.css.map": "/PortafolioWebReactJS/static/css/main.243210be.css.map",
-    "main.2004c359.js.map": "/PortafolioWebReactJS/static/js/main.2004c359.js.map"
+    "main.a98cc2e5.js.map": "/PortafolioWebReactJS/static/js/main.a98cc2e5.js.map"
   },
   "entrypoints": [
     "static/css/main.243210be.css",
-    "static/js/main.2004c359.js"
+    "static/js/main.a98cc2e5.js"
   ]
 }
