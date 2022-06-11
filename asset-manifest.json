@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/PortafolioWebReactJS/static/css/main.243210be.css",
-    "main.js": "/PortafolioWebReactJS/static/js/main.a98cc2e5.js",
+    "main.js": "/PortafolioWebReactJS/static/js/main.43d2fb32.js",
     "static/media/me-about2.jpg": "/PortafolioWebReactJS/static/media/me-about2.54d3f1b333d3e8c2a889.jpg",
     "static/media/rockfestival-003.png": "/PortafolioWebReactJS/static/media/rockfestival-003.d9b1ec997f6946335d27.png",
     "static/media/BlogDeCafe-001.png": "/PortafolioWebReactJS/static/media/BlogDeCafe-001.22f1516bc68ea3f7f857.png",
+    "static/media/hulu-2.png": "/PortafolioWebReactJS/static/media/hulu-2.d69efaa2c7d13acc86ee.png",
     "static/media/frelancer-002.png": "/PortafolioWebReactJS/static/media/frelancer-002.2101a316e6bea6563eb7.png",
     "static/media/BienesRaices-004.png": "/PortafolioWebReactJS/static/media/BienesRaices-004.cf288a4aee1f185d87fb.png",
     "static/media/ME3.png": "/PortafolioWebReactJS/static/media/ME3.8a1d827ff9e6ee5244c5.png",
@@ -13,10 +14,10 @@
     "static/media/web-development-t.jpg": "/PortafolioWebReactJS/static/media/web-development-t.b25ef89fac4366d3c582.jpg",
     "index.html": "/PortafolioWebReactJS/index.html",
     "main.243210be.css.map": "/PortafolioWebReactJS/static/css/main.243210be.css.map",
-    "main.a98cc2e5.js.map": "/PortafolioWebReactJS/static/js/main.a98cc2e5.js.map"
+    "main.43d2fb32.js.map": "/PortafolioWebReactJS/static/js/main.43d2fb32.js.map"
   },
   "entrypoints": [
     "static/css/main.243210be.css",
-    "static/js/main.a98cc2e5.js"
+    "static/js/main.43d2fb32.js"
   ]
 }
