@@ -6,7 +6,7 @@ import IMG3 from '../../assets/frelancer-002.png';
 import IMG4 from '../../assets/rockfestival-003.png';
 import IMG5 from '../../assets/web-development-t.jpg';
 import IMG6 from '../../assets/dashboard1.png';
-import IMG7 from '../../assets/hulu2.png';
+import IMG7 from '../../assets/hulu-2.png';
 
 
 
