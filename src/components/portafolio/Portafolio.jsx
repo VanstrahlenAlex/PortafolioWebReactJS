@@ -46,7 +46,7 @@ const data = [
   github: 'https://github.com/VanstrahlenAlex/Portafolio',
   demo: 'https://vanstrahlenalex.github.io/Portafolio/index.html'
   },
-   {
+  {
   id: 6,
   image: IMG6,
   title: 'Dashboard',
