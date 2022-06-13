@@ -56,7 +56,7 @@ const data = [
   {
   id: 7,
   image: IMG7,
-  title: 'Dashboard',
+  title: 'Hulu 2.0',
   github: 'https://github.com/VanstrahlenAlex/REACT/tree/master/hulu-2-yt',
   demo: ''
   }
