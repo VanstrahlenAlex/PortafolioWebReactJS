@@ -7,7 +7,7 @@ import IMG4 from '../../assets/rockfestival-003.png';
 import IMG5 from '../../assets/web-development-t.jpg';
 import IMG6 from '../../assets/dashboard1.png';
 import IMG7 from '../../assets/hulu-2.png';
-
+import IMG8 from '../../assets/fitclub.png';
 
 
 const data = [
@@ -59,6 +59,13 @@ const data = [
   title: 'Hulu 2.0',
   github: 'https://github.com/VanstrahlenAlex/REACT/tree/master/hulu-2-yt',
   demo: ''
+  },
+  {
+  id: 8,
+  image: IMG8,
+  title: 'Fitclub',
+  github: 'https://github.com/VanstrahlenAlex/FITCLUB',
+  demo: 'https://fitclub-av.netlify.app/'
   }
 
 ]
@@ -67,7 +74,7 @@ const data = [
 const Portafolio = () => {
   return (
     <section id='portafolio'>
-      <h5>Myis trabajos más recientes</h5>
+      <h5>Mis trabajos más recientes</h5>
       <h2>Portafolio</h2>
       <div className="container portafolio__container">
       {
