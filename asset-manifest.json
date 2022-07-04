@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/PortafolioWebReactJS/static/css/main.243210be.css",
-    "main.js": "/PortafolioWebReactJS/static/js/main.dc4c138e.js",
+    "main.js": "/PortafolioWebReactJS/static/js/main.3d271db9.js",
     "static/media/me-about2.jpg": "/PortafolioWebReactJS/static/media/me-about2.54d3f1b333d3e8c2a889.jpg",
+    "static/media/fitclub.png": "/PortafolioWebReactJS/static/media/fitclub.a43592696581d2e4b164.png",
     "static/media/rockfestival-003.png": "/PortafolioWebReactJS/static/media/rockfestival-003.d9b1ec997f6946335d27.png",
     "static/media/BlogDeCafe-001.png": "/PortafolioWebReactJS/static/media/BlogDeCafe-001.22f1516bc68ea3f7f857.png",
     "static/media/hulu-2.png": "/PortafolioWebReactJS/static/media/hulu-2.d69efaa2c7d13acc86ee.png",
@@ -14,10 +15,10 @@
     "static/media/web-development-t.jpg": "/PortafolioWebReactJS/static/media/web-development-t.b25ef89fac4366d3c582.jpg",
     "index.html": "/PortafolioWebReactJS/index.html",
     "main.243210be.css.map": "/PortafolioWebReactJS/static/css/main.243210be.css.map",
-    "main.dc4c138e.js.map": "/PortafolioWebReactJS/static/js/main.dc4c138e.js.map"
+    "main.3d271db9.js.map": "/PortafolioWebReactJS/static/js/main.3d271db9.js.map"
   },
   "entrypoints": [
     "static/css/main.243210be.css",
-    "static/js/main.dc4c138e.js"
+    "static/js/main.3d271db9.js"
   ]
 }
