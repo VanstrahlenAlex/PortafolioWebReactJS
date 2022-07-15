@@ -8,6 +8,7 @@ import IMG5 from '../../assets/web-development-t.jpg';
 import IMG6 from '../../assets/dashboard1.png';
 import IMG7 from '../../assets/hulu-2.png';
 import IMG8 from '../../assets/fitclub.png';
+import IMG9 from '../../assets/SeguimientoVeterinaria.png';
 
 
 const data = [
@@ -66,6 +67,13 @@ const data = [
   title: 'Fitclub',
   github: 'https://github.com/VanstrahlenAlex/FITCLUB',
   demo: 'https://fitclub-av.netlify.app/'
+  },
+  {
+  id: 9,
+  image: IMG9,
+  title: 'Fitclub',
+  github: 'https://github.com/VanstrahlenAlex/citas-react',
+  demo: 'https://seguimientoveterinaria-av.netlify.app/'
   }
 
 ]
