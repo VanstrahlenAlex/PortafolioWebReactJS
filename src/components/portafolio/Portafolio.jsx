@@ -71,7 +71,7 @@ const data = [
   {
   id: 9,
   image: IMG9,
-  title: 'Fitclub',
+  title: 'Citas Veterinario',
   github: 'https://github.com/VanstrahlenAlex/citas-react',
   demo: 'https://seguimientoveterinaria-av.netlify.app/'
   }
