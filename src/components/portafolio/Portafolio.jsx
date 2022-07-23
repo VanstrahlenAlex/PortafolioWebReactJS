@@ -9,6 +9,10 @@ import IMG6 from '../../assets/dashboard1.png';
 import IMG7 from '../../assets/hulu-2.png';
 import IMG8 from '../../assets/fitclub.png';
 import IMG9 from '../../assets/SeguimientoVeterinaria.png';
+import IMG10 from '../../assets/planificadorDeGastos.png';
+import IMG11 from '../../assets/CotizadorCryptomonedas.png';
+
+
 
 
 const data = [
@@ -74,6 +78,20 @@ const data = [
   title: 'Citas Veterinario',
   github: 'https://github.com/VanstrahlenAlex/citas-react',
   demo: 'https://seguimientoveterinaria-av.netlify.app/'
+  },
+  {
+  id: 10,
+  image: IMG10,
+  title: 'Control Presupuesto',
+  github: 'https://github.com/VanstrahlenAlex/REACT-LGD/tree/main/control-gastos',
+  demo: 'https://control-de-gastos-av.netlify.app/'
+  },
+  {
+  id: 11,
+  image: IMG11,
+  title: 'Cotizador de Criptomonedas',
+  github: 'https://github.com/VanstrahlenAlex/REACT-LGD/tree/main/cripto-react',
+  demo: 'https://consultor-de-cryptomonedas-av.netlify.app/'
   }
 
 ]
