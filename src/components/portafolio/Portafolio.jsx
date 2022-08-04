@@ -12,9 +12,7 @@ import IMG9 from '../../assets/SeguimientoVeterinaria.png';
 import IMG10 from '../../assets/planificadorDeGastos.png';
 import IMG11 from '../../assets/CotizadorCryptomonedas.png';
 
-
-
-
+//Data
 const data = [
   {
     id: 1,
