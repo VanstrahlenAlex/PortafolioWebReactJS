@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortafolioWebReactJS/static/css/main.f394ffbd.css",
-    "main.js": "/PortafolioWebReactJS/static/js/main.9103a143.js",
+    "main.js": "/PortafolioWebReactJS/static/js/main.08e840f8.js",
     "static/media/me-about2.jpg": "/PortafolioWebReactJS/static/media/me-about2.54d3f1b333d3e8c2a889.jpg",
     "static/media/fitclub.png": "/PortafolioWebReactJS/static/media/fitclub.a43592696581d2e4b164.png",
     "static/media/rockfestival-003.png": "/PortafolioWebReactJS/static/media/rockfestival-003.d9b1ec997f6946335d27.png",
@@ -11,17 +11,17 @@
     "static/media/BienesRaices-004.png": "/PortafolioWebReactJS/static/media/BienesRaices-004.cf288a4aee1f185d87fb.png",
     "static/media/ME3.png": "/PortafolioWebReactJS/static/media/ME3.8a1d827ff9e6ee5244c5.png",
     "static/media/dashboard1.png": "/PortafolioWebReactJS/static/media/dashboard1.dfb280621efb54762224.png",
-    "static/media/CV-Alexander-VanStrahlen-2022.pdf": "/PortafolioWebReactJS/static/media/CV-Alexander-VanStrahlen-2022.af764c83f693799ad301.pdf",
+    "static/media/CV-Alexander Van strahlen - 2023.pdf": "/PortafolioWebReactJS/static/media/CV-Alexander Van strahlen - 2023.7cdaa2959bef3c61b110.pdf",
     "static/media/web-development-t.jpg": "/PortafolioWebReactJS/static/media/web-development-t.b25ef89fac4366d3c582.jpg",
     "static/media/CotizadorCryptomonedas.png": "/PortafolioWebReactJS/static/media/CotizadorCryptomonedas.ffa50a0f8f10b0652663.png",
     "static/media/planificadorDeGastos.png": "/PortafolioWebReactJS/static/media/planificadorDeGastos.7c8f7af0c772b2d5c4d0.png",
     "static/media/SeguimientoVeterinaria.png": "/PortafolioWebReactJS/static/media/SeguimientoVeterinaria.2055f970a0fa6ccde3d8.png",
     "index.html": "/PortafolioWebReactJS/index.html",
     "main.f394ffbd.css.map": "/PortafolioWebReactJS/static/css/main.f394ffbd.css.map",
-    "main.9103a143.js.map": "/PortafolioWebReactJS/static/js/main.9103a143.js.map"
+    "main.08e840f8.js.map": "/PortafolioWebReactJS/static/js/main.08e840f8.js.map"
   },
   "entrypoints": [
     "static/css/main.f394ffbd.css",
-    "static/js/main.9103a143.js"
+    "static/js/main.08e840f8.js"
   ]
 }
