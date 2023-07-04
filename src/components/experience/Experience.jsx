@@ -7,8 +7,8 @@ import {BsFillPatchCheckFill} from 'react-icons/bs';
 const Experience = () => {
   return (
     <section id='experience'>
-      <h5>Habilidades que poseo</h5>
-      <h2>Mi experiencia</h2>
+      <h5>Mi experiencia profesional</h5>
+      <h2>Tecnologías trabajadas a tráves del tiempo</h2>
 
       <div className='container experience__container'>
         <div className="experience__frontend">
@@ -29,7 +29,7 @@ const Experience = () => {
                 <BsFillPatchCheckFill className='experience__details-icon'/>
                 <div>
                 <h4>CSS</h4>
-                <small className='text-light'>2 años de Experiencia</small>
+                <small className='text-light'>3 años de Experiencia</small>
                 </div>
               </article>
 
@@ -37,7 +37,7 @@ const Experience = () => {
                 <BsFillPatchCheckFill className='experience__details-icon'/>
                 <div>
                 <h4>JavaScript</h4>
-                <small className='text-light'>2 años de Experiencia</small>
+                <small className='text-light'>3 años de Experiencia</small>
                 </div>
               </article>
 
@@ -45,7 +45,7 @@ const Experience = () => {
                 <BsFillPatchCheckFill className='experience__details-icon'/>
                 <div>
                 <h4>Bootstrap</h4>
-                <small className='text-light'>1 año y medio de Experiencia</small>
+                <small className='text-light'>3 años de Experiencia</small>
                 </div>
               </article>
 
@@ -53,7 +53,7 @@ const Experience = () => {
                 <BsFillPatchCheckFill className='experience__details-icon'/>
                 <div>
                 <h4>ReactJS</h4>
-                <small className='text-light'>1 año de Experiencia</small>
+                <small className='text-light'>2 año de Experiencia</small>
                 </div>
               </article>
 
@@ -109,6 +109,14 @@ const Experience = () => {
               <article className='experience__details'>
                 <BsFillPatchCheckFill className='experience__details-icon'/>
                 <div>
+                <h4>Express</h4>
+                <small className='text-light'>2 años de Experiencia</small>
+                </div>
+              </article>
+
+              <article className='experience__details'>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
                 <h4>Laragon</h4>
                 <small className='text-light'>1 año y medio de Experiencia</small>
                 </div>
@@ -127,6 +135,22 @@ const Experience = () => {
                 <div>
                 <h4>Laravel</h4>
                 <small className='text-light'>1 año de Experiencia</small>
+                </div>
+              </article>
+
+              <article className='experience__details'>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                <h4>Oracle</h4>
+                <small className='text-light'>10 meses de Experiencia</small>
+                </div>
+              </article>
+
+              <article className='experience__details'>
+                <BsFillPatchCheckFill className='experience__details-icon'/>
+                <div>
+                <h4>JAVA (groovy)</h4>
+                <small className='text-light'>10 meses de Experiencia</small>
                 </div>
               </article>
 

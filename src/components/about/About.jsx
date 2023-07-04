@@ -5,6 +5,8 @@ import {BiNetworkChart} from 'react-icons/bi';
 import {BsFillAwardFill} from 'react-icons/bs';
 import {VscFolderOpened} from 'react-icons/vsc';
 
+
+
 const About = () => {
   return (
     <section id='about'>
@@ -23,6 +25,8 @@ const About = () => {
             <BiNetworkChart className='about__icon'/>
               <h5>Experiencia</h5>
               <small>2 años de trabajo como Freelancer</small>
+              <small>1 año de trabajo como Desarrollador de Software</small>
+
             </article>
 
             <article className='about__card'>
@@ -39,7 +43,7 @@ const About = () => {
           </div>
           
           <p>
-          Soy Ingeniero Electrónico de la ciudad de Valledupar, llevo 2 años de capacitación como programador, he sido capacitado por el proyecto 
+          Soy Ingeniero Electrónico de la ciudad de Valledupar, llevo 3 años de experiencia como programador, he sido capacitado por el proyecto 
           del MINTIC 2022 como programador Junior, también he aprendido gracias a cursos de desarrollo web en Udemy, Coursera y Cisco Academy.
           Me considero una persona con una escucha activa, con mucho interés en los detalles y me siento más atraido por una comunicación asertiva y directa.
           </p>

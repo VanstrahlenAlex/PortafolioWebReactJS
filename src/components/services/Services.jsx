@@ -22,12 +22,12 @@ const Services = () => {
 
             <li>
             <BiCheck  className='service__list-icon'/>
-            <p>Diseño de sitios web</p>
+            <p>Fundamentos de ingeniería de software</p>
             </li>
 
             <li>
             <BiCheck  className='service__list-icon'/>
-            <p>Asistencia a la experiencia de Usuario</p>
+            <p>UX Writing & UX Editing</p>
             </li>
           </ul>
         </article>
@@ -57,7 +57,7 @@ const Services = () => {
 
             <li>
             <BiCheck  className='service__list-icon'/>
-            <p>Diseño de sitios web</p>
+            <p>Maquetación y responsive web design</p>
             </li>
 
             <li>
