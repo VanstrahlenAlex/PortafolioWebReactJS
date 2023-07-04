@@ -1,5 +1,6 @@
 import React from 'react'
-import CV from '../../assets/CV-Alexander-VanStrahlen-2022.pdf';
+import CV from '../../assets/CV-Alexander Van strahlen - 2023.pdf';
+
 
 const CTA = () => {
   return (
